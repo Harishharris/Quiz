@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/deploy_Quiz/static/css/main.1090feda.css",
-    "main.js": "/deploy_Quiz/static/js/main.18bdd1a0.js",
-    "index.html": "/deploy_Quiz/index.html",
-    "main.1090feda.css.map": "/deploy_Quiz/static/css/main.1090feda.css.map",
-    "main.18bdd1a0.js.map": "/deploy_Quiz/static/js/main.18bdd1a0.js.map"
+    "main.css": "/Quiz/static/css/main.1090feda.css",
+    "main.js": "/Quiz/static/js/main.18bdd1a0.js",
+    "index.html": "/Quiz/index.html",
+    "main.1090feda.css.map": "/Quiz/static/css/main.1090feda.css.map",
+    "main.18bdd1a0.js.map": "/Quiz/static/js/main.18bdd1a0.js.map"
   },
   "entrypoints": [
     "static/css/main.1090feda.css",
